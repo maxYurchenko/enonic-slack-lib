@@ -29,7 +29,7 @@ You can then use this inside your javascript controller or other parts of your a
 
     // Send message to the channel
     slackLib.sendMessage({
-      // Channel. Required. Url to webhook, which can be obtained inside you Slack app.
+      // Channel. Required. Url to webhook, which can be obtained inside your Slack app.
       channel: webhookUrl,
       // Title. Not required. If present, this text will be displayed bold and a newline will be added after it.
       title: title,
