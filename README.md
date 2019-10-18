@@ -17,7 +17,7 @@ Add Enonic repository to the repository list in the build.gradle file:
 After this, add the following dependency:
 
     dependencies {
-      include 'com.enonic.lib:lib-text-encoding:2.0.0'
+      include "com.enonic.lib:slack:1.0.0"
     }
 
 ## Examples
