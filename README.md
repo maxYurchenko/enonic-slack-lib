@@ -1,8 +1,8 @@
-#Slack lib for Enonic XP
+# Slack lib for Enonic XP
 
 This is a very basci library, which allows you sending messages to your slack channels.
 
-##Usage
+## Usage
 
 You will need to have an active Slack application. You can create it [here](https://api.slack.com/apps). You will also need to create a webhooks to a channels you would like to send messages to.
 
@@ -20,7 +20,7 @@ After this, add the following dependency:
       include 'com.enonic.lib:lib-text-encoding:2.0.0'
     }
 
-##Examples
+## Examples
 
 You can then use this inside your javascript controller or other parts of your app. This library includes only one function, which does the sending of messages.
 
