@@ -1,0 +1,11 @@
+build/*
+.gradle/*
+.xp/*
+src/main/resources/site/assets/*
+src/main/resources/assets/*
+.classpath
+.project
+.settings/*
+bin/*
+gradle
+enonic.toml
